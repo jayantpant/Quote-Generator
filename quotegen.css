@@ -1,0 +1,38 @@
+body {
+  text-align: center;
+  background: url('https://image.freepik.com/free-vector/abstract-design-background_1048-6726.jpg');
+}
+h1 {
+  font-family: 'Sacramento';
+  text-align: center;
+  font-size: 5em;
+}
+p {
+  font-family: 'Roboto Slab', serif;
+  font-size: 2em;
+}
+.button {
+  font-family: 'Indie flower', cursive;
+  height: 40px;
+  width: 135px;
+  background-color: rgb(135,176,215);
+  border-radius: 12px;
+  font-size: 20px;
+  box-shadow: 5px 5px 5px rgba(111,111,111,0.7);
+}
+.quote {
+  text-align: center;
+  width: 600px;
+  margin: 0 auto;
+  padding: 10 px;
+  height: auto;
+}
+.words {
+  font-family: 'Titan One', cursive;
+  font-size: 1.5em;
+}
+.speaker {
+  font-style: italic;
+  font-family: Kaushan Script;
+  font-size: 1.3em;
+}
